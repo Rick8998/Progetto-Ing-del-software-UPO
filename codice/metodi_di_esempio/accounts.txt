@@ -1,0 +1,12 @@
+carla	abc	true	cliente
+claudia	abc	true	cliente
+clio	abc	true	cliente
+cassio	abc	true	cliente
+ciro	abc	false	cliente
+sirio	abc	true	staff
+sisto	abc	true	staff
+soave	abc	false	staff
+aldo	abc	true	admin
+anna	abc	true	admin
+alfio	abc	true	admin
+

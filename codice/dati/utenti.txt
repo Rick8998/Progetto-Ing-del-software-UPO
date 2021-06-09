@@ -1,0 +1,9 @@
+Carla	Rossi	cr@email.it	carla	100	-		Trotti 1 15121 Alessandria	
+Claudia	Bianchi	cb@email.it	claudia	100	-		Cavour 1 15121 Alessandria
+Clio	Diesel	cd@email.it	clio	100	-		Mazzini	1 15121 Alessandria
+Cassio	Verdi	cv@email.it	cassio	100	-		Guasco 1 15121 Alessandria
+Ciro	Neri	cn@email.it	ciro	100	-		Dante 1 15121 Alessandria
+Sirio	Smith	ss@email.it	sirio	0	impiegato	Duomo 1 13100 Vercelli
+Sisto	Taylor	st@email.it	sisto	0	impiegato	Ferraris 1 13100 Vercelli
+Soave	Keynes	sk@email.it	soave	0	direttore	Micca 1 13100 Vercelli
+

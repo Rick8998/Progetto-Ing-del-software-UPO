@@ -1,0 +1,10 @@
+Ingegneria_del_software		Sommerville			1000000001	3	true
+Ingegneria_del_software		Pressman			1000000002	3	true
+Ingegneria_del_software		Ghezzi_Mandrioli_Jazayeri	1000000003	4	true
+UML_distilled			Fowler				1000000004	4	true
+Dall'idea_al_codice_con_UML_2	Baresi_Lavazza_Pianciamore	1000000005	5	false
+Ingegneria_del_software		Binato_Fuggetta_Sfardini	1000000006	5	false
+Il_linguaggio_C			Deitel_Deitel			1000000007	5	true
+C:_didattica_e_programmazione	Kelley_Pohl			1000000008	5	true
+Il_linguaggio_C			Kernighan_Ritchie		1000000009	6	true	
+
