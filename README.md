@@ -1,2 +1,3 @@
 # Progetto-Ing-del-software-UPO
-# Biblioteca realizzata tramite i processi di sviluppo propri dell' ingegneria del software
+
+Sistema di gestione di una biblioteca realizzato tramite i processi di sviluppo propri dell' ingegneria del software
